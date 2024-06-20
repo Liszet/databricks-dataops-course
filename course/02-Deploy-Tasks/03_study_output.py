@@ -15,5 +15,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+# MAGIC acme_transport_taxinyc.dev_luizaoancea_workshop_4264244b_revenue.borough_population
+# MAGIC acme_transport_taxinyc.dev_luizaoancea_workshop_4264244b_revenue.revenue_by_borough
+# MAGIC acme_transport_taxinyc.dev_luizaoancea_workshop_4264244b_revenue.revenue_by_tripmonth
+# MAGIC acme_transport_taxinyc.dev_luizaoancea_workshop_4264244b_revenue.revenue_per_inhabitant

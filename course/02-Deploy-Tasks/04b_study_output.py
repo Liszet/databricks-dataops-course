@@ -16,4 +16,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The same output as in 03_study_output, just that the data has been updated with the newest data (theoretically, since over here the csv source is a static source)
