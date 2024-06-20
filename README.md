@@ -56,6 +56,10 @@ There are python libs in the [libs](https://github.com/paalvibe/databricks-datao
 
 The structure and dataops libs can be used in your own projects, by forking the repo or copying the content and adapting it.
 
+## Presentation
+
+[Here](https://docs.google.com/presentation/d/1K0UmPP-IAgjdm5O1a4ZY9PoehiHxsehET60hMozm_yg) is the presentation that Pål had during the workshop 
+
 ## Course
 
 1. Go to course/
